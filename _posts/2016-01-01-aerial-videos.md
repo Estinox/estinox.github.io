@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aerial Videography
+title: Rice Lake Aerial Video
 ---
 
 Hi there! Welcome to the first post. Decided to migrate my site away from Wordpress after several security loopsholes that gave me some trouble. As of this posting, I'd like to thank github for hosting and jekyll for powered my blog.

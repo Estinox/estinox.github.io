@@ -1,30 +1,16 @@
 ---
 layout: page
-title: About
+title: About the Blog
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hey there! My name is Kevin, and welcome to Centrally Distributed.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+If you haven't already guessed from its name, Centrally Distributed is a personal blog about statistics and machine learning. Although, from time to time, you might see a few hobby posts just to prove that I'm not a robot.
 
-There are currently two themes built on Poole:
+## About the Author
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Grew up around Toronto, Canada, and went to University of Waterloo for its computer science program. Currently, I'm working at Tower Research Capital as a programmer, helping the group here develop automated short-term trading strategies.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+As for my hobbies, you can sometimes find me skiing at big mountains, dabbling with photography, strumming a favorite guitar tune, or simply listening to an educational podcasts.
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.org), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Want to get in touch? You can email me at centrally.distributed@gmail.com. Until then, have a browse, make yourself feel at home.

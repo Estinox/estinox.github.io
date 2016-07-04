@@ -7,13 +7,13 @@ permalink:        pretty
 
 # Setup
 title:            Centrally Distributed
-tagline:          'welcome'
-description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+tagline:          'from statistics to photography, and everything in-between'
+description:      'Centrally Distributed'
 url:              http://estinox.github.io
 
 author:
   name:           'Kevin Yuan'
-  url:            https://twitter.com
+  url:            http://estinox.github.io 
 
 gems: [jekyll-paginate]
 paginate:         5

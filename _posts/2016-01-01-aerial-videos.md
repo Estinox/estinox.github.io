@@ -3,7 +3,7 @@ layout: post
 title: Rice Lake Aerial Video
 ---
 
-Hi there! Welcome to the first post. Decided to migrate my site away from Wordpress after several security loopsholes that gave me some trouble. As of this posting, I'd like to thank github for hosting and jekyll for powered my blog.
+Hi there! Welcome to the first post. Decided to migrate my site away from Wordpress after several security loopsholes that gave me some trouble. As of this posting, I'd like to thank github for hosting and jekyll for powering my blog.
 
 Going to reshare some of my previous aerial videos I took a while back just to get some content started. Have a look if you haven't seen it, hopefully there's more to come!
 

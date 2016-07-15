@@ -7,7 +7,7 @@ Hey there, didn't see you for a second! My name is Kevin and welcome to Centrall
 
 If you haven't already guessed from the title, Centrally Distributed is a personal blog pivoted around statistics and machine learning. Although from time to time, you might see a few hobby posts tossed in, just to prove that I'm not a robot (or is that what a robot would say?).
 
-Part of me wishes that I took more data science related courses during university, but thanks to MOOCs and many great online resources, learning doesn't have to be confined to academic campuses anymore. The primary goal of this blog is to serve as platform to force myself to commit my understanding in writing and to think deeply about the topic of each post. And at the same time, hopefully to educate any reader who happens to stumble upon the article.
+Part of me wishes that I took more data science related courses during university, but thanks to MOOCs and many great online resources, learning doesn't have to be confined to academic campuses anymore. The primary goal of this blog is to serve as platform to force myself to commit my understanding in writing and to think deeply about the topic of each post. And at the same time, hopefully to educate any reader who happens to stumble here.
 
 # About the Author
 

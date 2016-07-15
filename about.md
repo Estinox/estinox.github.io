@@ -3,11 +3,11 @@ layout: page
 title: About the Blog
 ---
 
-Hey there! My name is Kevin, and welcome to Centrally Distributed.
+Hey there, didn't see you for a sec! I'm Kevin and welcome to Centrally Distributed. 
 
 If you haven't already guessed from its name, Centrally Distributed is a personal blog pivoted around statistics and machine learning. Although from time to time, you might see a few hobby posts tossed in, just to prove that I'm not a robot (or is that what a robot would say?).
 
-## About the Author
+# About the Author
 
 Grew up around Toronto, Canada, and went to the University of Waterloo for its computer science program. Currently, I'm working at Tower Research Capital as a programmer, helping the group here develop automated short-term trading strategies.
 

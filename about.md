@@ -3,9 +3,11 @@ layout: page
 title: About the Blog
 ---
 
-Hey there, didn't see you for a sec! I'm Kevin and welcome to Centrally Distributed. 
+Hey there, didn't see you for a second! My name is Kevin and welcome to Centrally Distributed.
 
-If you haven't already guessed from its name, Centrally Distributed is a personal blog pivoted around statistics and machine learning. Although from time to time, you might see a few hobby posts tossed in, just to prove that I'm not a robot (or is that what a robot would say?).
+If you haven't already guessed from the title, Centrally Distributed is a personal blog pivoted around statistics and machine learning. Although from time to time, you might see a few hobby posts tossed in, just to prove that I'm not a robot (or is that what a robot would say?).
+
+Part of me wishes that I took more data science related courses during university, but thanks to MOOCs and many great online resources, learning doesn't have to be confined to academic campuses. The primary goal of this blog is to reinforce the concepts I've encountered by relaying it to a public audience, asking the "so-what" and "what-if" questions that I believe to induce further understanding and connections.
 
 # About the Author
 

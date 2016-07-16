@@ -19,7 +19,8 @@ gems: [jekyll-paginate]
 paginate:         5
 
 # Custom vars
-version:          2.0.0
+version:          1.0.0
+google_analytics: UA-80834798-1
 
 github:
   repo:           https://github.com/estinox

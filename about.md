@@ -13,6 +13,6 @@ Part of me wishes that I took more data science related courses during universit
 
 Grew up around Toronto, Canada, and went to the University of Waterloo for its computer science program. Currently, I'm working at Tower Research Capital as a programmer, helping the group here to develop automated short-term trading strategies.
 
-As for hobbies, you can sometimes find me skiing at powdery big mountains, dabbling with digital photography, strumming a song that I can't get out of my head, or simply listening to my favorite podcasts like [Talking Machines](http://www.thetalkingmachines.com), [Planet Money](http://www.npr.org/sections/money), and [Radiolab](http://www.radiolab.org).
+As for hobbies, you can sometimes find me skiing at powdery big mountains, dabbling with digital photography, strumming a song that I can't get out of my head, or simply listening to my favorite podcasts like [Talking Machines](http://www.thetalkingmachines.com), [Planet Money](http://www.npr.org/sections/money), and [Radiolab](http://www.radiolab.org) to name a few.
 
 Want to get in touch? You can drop me a message at centrally.distributed@gmail.com. Until then, have a browse, make yourself feel at home.

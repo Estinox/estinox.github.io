@@ -20,7 +20,6 @@ paginate:         5
 
 # Custom vars
 version:          1.0
-google_analytics: UA-80834798-1
 
 github:
   repo:           https://github.com/estinox

@@ -15,4 +15,4 @@ Grew up around Toronto, Canada, and went to the University of Waterloo for its c
 
 As for hobbies, you can sometimes find me skiing at powdery big mountains, dabbling with digital photography, strumming a song that I can't get out of my head, or simply listening to my favorite podcasts like [Talking Machines](http://www.thetalkingmachines.com){:target="_blank"}, [Planet Money](http://www.npr.org/sections/money){:target="_blank"}, and [Radiolab](http://www.radiolab.org){:target="_blank"} to name a few.
 
-Want to get in touch? You can drop me a message at centrally.distributed@gmail.com. Until then, have a browse, make yourself feel at home.
+Want to get in touch? You can drop me a message at centrally.distributed@gmail.com. Until then, have a [browse]({{ site.baseurl }}/site_map/, make yourself feel at home.

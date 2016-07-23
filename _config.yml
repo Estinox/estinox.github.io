@@ -11,6 +11,7 @@ tagline:          'from statistics to photography, and everything in-between'
 description:      'Centrally Distributed'
 url:              http://estinox.github.io
 baseurl:          ''
+gems:             [jekyll-paginate]
 paginate:         5
 excerpt_separator: <!--more-->
 

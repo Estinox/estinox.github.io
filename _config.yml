@@ -4,7 +4,6 @@ rouge:      true
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            Centrally Distributed

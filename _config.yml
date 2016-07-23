@@ -4,23 +4,26 @@ rouge:      true
 
 # Permalinks
 permalink:        pretty
+relative_permalinks: true
 
 # Setup
 title:            Centrally Distributed
 tagline:          'from statistics to photography, and everything in-between'
 description:      'Centrally Distributed'
 url:              http://estinox.github.io
-
-author:
-  name:           'Kevin Yuan'
-  url:            http://estinox.github.io 
-
-gems: [jekyll-paginate]
+baseurl:          ''
 paginate:         5
 excerpt_separator: <!--more-->
+
+github:
+  repo:           https://github.com/estinox
+
+# Contacts
+author:
+  name:           'Kevin Yuan'
+  url:            http://estinox.github.io
+  email:          centrally.distributed.com
 
 # Custom vars
 version:          1.0
 
-github:
-  repo:           https://github.com/estinox

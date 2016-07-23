@@ -9,7 +9,7 @@ Topics covered in this blog after running a "sophisticated" clustering algorithm
 - Coming soon!
 
 ### Data Explorations
-- [Kaggle titanic competition]({{ site.url }}/2016/07/23/titanic/)
+- [Kaggle titanic competition]({{ site.baseurl }}/2016/07/23/titanic/)
 
 ### Photos and Media
-- [Rice lake aerial video]({{ site.url }}/2016/01/01/aerial-videos/)
+- [Rice lake aerial video]({{ site.baseurl }}/2016/01/01/aerial-videos/)

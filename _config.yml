@@ -17,6 +17,7 @@ author:
 
 gems: [jekyll-paginate]
 paginate:         5
+excerpt_separator: <!--more-->
 
 # Custom vars
 version:          1.0

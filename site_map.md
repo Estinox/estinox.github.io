@@ -3,7 +3,7 @@ layout: page
 title: Site Map
 ---
 
-Topics covered in this blog after running a "sophisticated" clustering algorithm.
+Topics clusters found from a "sophisticated" unsupervised algorithm:
 
 ### Mini [ELI5](https://www.reddit.com/r/explainlikeimfive/){:target="blank"}'s
 - Coming soon!

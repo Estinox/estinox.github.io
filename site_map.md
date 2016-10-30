@@ -6,10 +6,8 @@ title: Site Map
 Topics clusters found from a very "sophisticated" unsupervised algorithm:
 
 ### Mini [ELI5](https://www.reddit.com/r/explainlikeimfive/){:target="blank"}'s
-- [Interpreting Logistic Regression Coefficients]({{ site.baseurl }}/2016/08/01/Interpreting-Logistic-Regression/)
-
-### Programming
 - [Variadic Template Metaprogramming, std::rotate]({{ site.baseurl }}/2016/10/29/Meta-Rotate-Cpp/)
+- [Interpreting Logistic Regression Coefficients]({{ site.baseurl }}/2016/08/01/Interpreting-Logistic-Regression/)
 
 ### Data Explorations
 - [Kaggle Titanic Competition]({{ site.baseurl }}/2016/07/23/titanic/)

@@ -137,9 +137,9 @@ Dichotomous just means the value can only be either 0 or 1, such as the field
 Sex in our titanic data set. In this section, we'll explore what the
 coefficients mean when regressing against only one dichotomous feature.
 
-Let's map males to 0, and female to 1, then feed it through sklearn's <a
-id="http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Logist
-icRegression.html">logistic regression</a> function to get the coefficients out,
+Let's map males to 0, and female to 1, then feed it through sklearn's 
+[logistic regression](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Logist
+icRegression.html){:target="blank"} function to get the coefficients out,
 $$\theta_0$$ for the bias, $$\theta_1$$ for the logistic coefficient for sex. Then
 we'll manually compute the coefficients ourselves to convince ourselves of
 what's happening. 

@@ -2,7 +2,7 @@
 layout: page
 title: About the Blog
 ---
-![png]({{ site.url }}/assets/vancouver_canada_place.jpg)
+![png]({{ site.url }}/assets/lake_louise.jpg)
 
 Hey there, didn't see you for a second! My name is Kevin and welcome to Centrally Distributed.
 

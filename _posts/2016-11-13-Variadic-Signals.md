@@ -89,4 +89,4 @@ The main should output:
 8 times 2 is 16
 8 minus 2 is 6
 
-And that's a wrap! If anyone has any questions, feel free to email me. Cover art is provided by [CoolCurry](http://www.deviantart.com/art/Smoke-Signals-245006613){:target="blank"}.
+And that's a wrap! If anyone has any questions, feel free to email me.

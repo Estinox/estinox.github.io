@@ -8,6 +8,8 @@ tags:
 
 Probably should've posted this before the [previous]({{ site.url }}/2016/10/29/Meta-Rotate-Cpp/) Variadic TMP write-up. Anyhow, a variadic template is a new feature in C++11 that made the old va_args completely obsolete (woot!). The new variadic inherits the "..." (ellipses) operator, which expands a pack of zero or more types or value arguments passed into it.
 
+<!--more-->
+
 To see it in action, this is a bit of an old code; I was writing up my own event-driven engine, which is a container of function pointers that are called when arguments are passed to them. The function pointer would come in different flavors depending on the paramenters needed of the receiving functions, whch sounded like a perfect job for variadic templates. I was able to get it working, until I realized that [boost::signals2](http://www.boost.org/doc/libs/1_62_0/doc/html/signals2.html){:target="blank"} does exactly the same thing. Nonetheless, it was a great programming excercise, and let's step through the [source code](https://github.com/Estinox/coding-practices/blob/master/random_code/subscriber_observer.cpp){:target="blank"}.
 
 {% highlight cpp %}

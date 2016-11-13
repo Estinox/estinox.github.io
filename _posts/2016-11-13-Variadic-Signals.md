@@ -26,7 +26,9 @@ template <typename... Args> class Signal {
     }
 
     void notify(Args... args) {
-      std::for_each(subscribers_.begin(), subscribers_.end(), [&](auto& func){func(args...);});
+      std::for_each(subscribers_.begin(),
+              subscribers_.end(),
+              [&](auto& func){func(args...);});
     }
 };
 
@@ -50,7 +52,9 @@ There's a lot of magic in the fp typedef. Before it conceals all the ugliness of
     }
 
     void notify(Args... args) {
-      std::for_each(subscribers_.begin(), subscribers_.end(), [&](auto& func){func(args...);});
+      std::for_each(subscribers_.begin(),
+              subscribers_.end(),
+              [&](auto& func){func(args...);});
     }
 {% endhighlight %}
 
@@ -62,7 +66,8 @@ And that's it! Here's a main that drives all of this.
 
 void multiply(int a, int b)
 {
-  std::cout << a << " times " << b  << " is " << a*b << std::endl;
+  std::cout << a << " times "
+      << b  << " is " << a*b << std::endl;
 }
 
 void subtract(int a, int b)

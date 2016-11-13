@@ -6,7 +6,9 @@ tags:
     - notebook
     - statistics
 ---
-![png]({{ site.url }}/assets/20160801_logistic_regression/20160801-LogisticRegression.png)
+![png]({{ site.url }}/assets/20160801_logistic_regression/kiwi.jpg)
+
+Giggles: Key + Wii = Kiwi; Math!
 
 Dug out this relatively notebook from a while ago when I was learning about
 logistic regression. We all know that the coefficients of a linear regression
@@ -383,3 +385,5 @@ is derived, I would point you in the direction of the Bernoulli distribution,
 how the bernoulli can be expressed as part of the exponential family, and how
 Generalized Linear Model can produces a learning algorithm for all members of
 the exponential family. 
+
+Thank you Sebastien for the wonderful cover art, more of his work can be found [here](http://www.deviantart.com/art/Math-297430290){:target="blank"}.

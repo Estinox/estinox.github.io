@@ -6,7 +6,8 @@ title: Site Map
 Topics clusters found from a very "sophisticated" unsupervised algorithm:
 
 ### Mini [ELI5](https://www.reddit.com/r/explainlikeimfive/){:target="blank"}'s
-- [Variadic Template Metaprogramming, std::rotate]({{ site.baseurl }}/2016/10/29/Meta-Rotate-Cpp/)
+- [Rotating Variadic Template Metaprogramming]({{ site.baseurl }}/2016/10/29/Meta-Rotate-Cpp/)
+- [Variadic Signals]({{ site.baseurl }}/2016/11/13/Variadic-Signals/)
 - [Interpreting Logistic Regression Coefficients]({{ site.baseurl }}/2016/08/01/Interpreting-Logistic-Regression/)
 
 ### Data Explorations

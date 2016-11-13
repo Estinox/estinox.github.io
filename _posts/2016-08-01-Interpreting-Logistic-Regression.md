@@ -10,7 +10,7 @@ tags:
 
 Giggles: Key + Wii = Kiwi; Math!
 
-Dug out this relatively notebook from a while ago when I was learning about
+Dug out this relatively old notebook from a while ago when I was learning about
 logistic regression. We all know that the coefficients of a linear regression
 relates to the response variable linearly, but the answer to how the logistic
 regression coefficients related was not as clear.

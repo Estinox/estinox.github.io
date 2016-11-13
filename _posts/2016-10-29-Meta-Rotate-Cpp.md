@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Variadic Template Metaprogramming - std::rotate
+title: Rotating Variadic Template Metaprogramming
 tags:
     - cpp
 ---

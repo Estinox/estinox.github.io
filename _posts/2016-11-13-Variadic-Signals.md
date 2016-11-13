@@ -6,7 +6,7 @@ tags:
 ---
 ![png]({{ site.url }}/assets/20161113_variadic_signals/smoke_signal.jpg)
 
-Probably should've posted this before the [previous]({{ site.url }}/2016/10/29/Meta-Rotate-Cpp/) Variadic TMP write-up. Anyhow, a variadic template is a new feature in C++11 that made the old va_args completely obsolete (woot!). The new variadic inherits the "..." (ellipses) operator, which expands a pack of zero or more types or value arguments passed into it.
+Probably should've posted this before the [previous]({{ site.url }}/2016/10/29/Meta-Rotate-Cpp/) Variadic TMP write-up. Anyhow, a variadic template is a new feature in C++11 that made the old va_args completely obsolete (woot!). The new variadic inherits the "..." (ellipses) operator, which expands a pack of zero or more types or value arguments.
 
 <!--more-->
 
@@ -89,4 +89,4 @@ The main should output:
 8 times 2 is 16
 8 minus 2 is 6
 
-And that's a wrap! If anyone has any questions, feel free to email me.
+Alright, that's a wrap! If anyone has any questions, feel free to email me.

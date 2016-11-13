@@ -10,7 +10,7 @@ Happy Halloween! If anyone is looking for a well-presented C++ core concept vide
 
 I’m sure many of us have heard how the compiler is Turing complete. In Stephen’s [8th video](https://channel9.msdn.com/Series/C9-Lectures-Stephan-T-Lavavej-Core-C-/Stephan-T-Lavavej-Core-Cpp-8-of-n){:target="blank"}, he showed us how to manipulate template parameters to sort an int array of arbitrary length during compile time using variadic template metaprogramming. Mind = Blown.
 
-Okay, the TMP isn't rotating, but I thought I get my hands dirty by implementing the [rotate](http://en.cppreference.com/w/cpp/algorithm/rotate){:target="blank"} algorithm from STL’s algorithm library. Rotate takes a list and shuffles all the elements forward by one, with the element at the front of the list being pushed to the back.
+Okay, this TMP isn't rotating, but I thought I get my hands dirty by implementing the [rotate](http://en.cppreference.com/w/cpp/algorithm/rotate){:target="blank"} algorithm from STL’s algorithm library. Rotate takes a list and shuffles all the elements forward by one, with the element at the front of the list being pushed to the back.
 
 <!--more-->
 

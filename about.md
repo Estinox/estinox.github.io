@@ -2,8 +2,6 @@
 layout: page
 title: About the Blog
 ---
-![png]({{ site.url }}/assets/lake_louise.jpg)
-
 Hey there, didn't see you for a second! My name is Kevin and welcome to Centrally Distributed.
 
 If you haven't already guessed from the title, Centrally Distributed is a personal blog distributed (bad pun intended) around statistics and machine learning. Although from time to time, you might see a few hobby posts tossed in, just to prove that I'm not a robot (or is that what a robot would say?).

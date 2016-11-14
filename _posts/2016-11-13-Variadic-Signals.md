@@ -90,8 +90,11 @@ int main() {
 The main should output:
 
 3 times 1 is 3
+
 3 minus 1 is 2
+
 8 times 2 is 16
+
 8 minus 2 is 6
 
 Alright, that's a wrap! If anyone has any questions, feel free to email me.

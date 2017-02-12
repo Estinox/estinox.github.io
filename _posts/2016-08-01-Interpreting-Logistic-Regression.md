@@ -35,7 +35,7 @@ Dichotomous-Feature)
 ## Quick Primer
 Logistic Regression is commonly defined as:
 
-$$h_\theta(x) = \frac{1}{1+e^{\theta^Tx}}$$
+$$h_\theta(x) = \frac{1}{1+e^{-\theta^Tx}}$$
 
 You already know that, but with some algebriac manipulation, the above equation
 can also be interpreted as follows

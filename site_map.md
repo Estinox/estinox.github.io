@@ -3,7 +3,7 @@ layout: page
 title: Site Map
 ---
 
-Topics clusters found from a very "sophisticated" unsupervised algorithm:
+Topic clusters found from a very "sophisticated" unsupervised algorithm:
 
 ### Mini [ELI5](https://www.reddit.com/r/explainlikeimfive/){:target="blank"}'s
 - [Rotating Variadic Template Metaprogramming]({{ site.baseurl }}/2016/10/29/Meta-Rotate-Cpp/)

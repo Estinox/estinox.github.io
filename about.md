@@ -10,7 +10,7 @@ Part of me wishes that I took more data science related courses during universit
 
 # About the Author
 
-Grew up around Toronto, Canada, and went to the University of Waterloo for its computer science program. Currently, I'm working at Tower Research Capital as a programmer, helping the group here develop automated short-term trading strategies.
+Grew up around Toronto, Canada, and went to the University of Waterloo for its computer science program. Currently employed as a quant developer for a major bank in Manhattan, help the group develop automated market-making strategies within the interest-rate derivatives space.
 
 As for hobbies, you can sometimes find me skiing at powdery big mountains, dabbling with digital photography, strumming a song that I can't get out of my head, or simply listening to my favorite podcasts like [Talking Machines](http://www.thetalkingmachines.com){:target="_blank"}, [Planet Money](http://www.npr.org/sections/money){:target="_blank"}, and [Radiolab](http://www.radiolab.org){:target="_blank"} to name a few.
 

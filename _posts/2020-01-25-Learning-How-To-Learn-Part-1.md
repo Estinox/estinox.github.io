@@ -8,7 +8,7 @@ tags:
 
 _“I don't know what's the matter with people: they don't learn by understanding, they learn by some other way — by rote or something. Their knowledge is so fragile!” – Richard P. Feynman_
 
-Two major points about learning in this article:
+Happy Chinese New Year! Two major points about learning in this article:
 * How learning happens
 * How to promote better learning
 

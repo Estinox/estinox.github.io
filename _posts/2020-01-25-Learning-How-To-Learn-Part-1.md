@@ -6,13 +6,11 @@ tags:
 ---
 ![png]({{ site.url }}/assets/20200125_learning_how_to_learn/jigsaw_puzzle.jpg)
 
-## Learning How to Learn
-
-* “I don't know what's the matter with people: they don't learn by understanding, they learn by some other way — by rote or something. Their knowledge is so fragile!” – Richard P. Feynman *
+_“I don't know what's the matter with people: they don't learn by understanding, they learn by some other way — by rote or something. Their knowledge is so fragile!” – Richard P. Feynman_
 
 Two major points about learning in this article:
-1. How learning happens
-2. How to promote better learning
+* How learning happens
+* How to promote better learning
 
 Learning is like solving a puzzle map. Every time we learn a new concept, we pick up a puzzle piece. And every time we make a connection, we fit that puzzle piece into our map.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rotating Variadic Template Metaprogramming
+title: Learning How to Learn Part I
 tags:
     - misc
 ---
@@ -17,6 +17,8 @@ Two major points about learning in this article:
 Learning is like solving a puzzle map. Every time we learn a new concept, we pick up a puzzle piece. And every time we make a connection, we fit that puzzle piece into our map.
 
 Formally, it is the ability to recall and tie relevant concepts together, and the ability to derive new solutions under different situations.
+
+<!--more-->
 
 ### How Learning Occurs
 

@@ -6,7 +6,7 @@ tags:
 ---
 ![png]({{ site.url }}/assets/20200125_learning_how_to_learn/jigsaw_puzzle.jpg)
 
-_“I don't know what's the matter with people: they don't learn by understanding, they learn by some other way — by rote or something. Their knowledge is so fragile!” – Richard P. Feynman_
+_"I don't know what's the matter with people: they don't learn by understanding, they learn by some other way - by rote or something. Their knowledge is so fragile!"_ – Richard P. Feynman
 
 Happy Chinese New Year! Two major points about learning in this article:
 * How learning happens

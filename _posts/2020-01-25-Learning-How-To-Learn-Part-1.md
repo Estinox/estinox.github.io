@@ -14,7 +14,7 @@ Happy Chinese New Year! Two major points about learning in this article:
 
 Learning is like solving a puzzle map. Every time we learn a new concept, we pick up a puzzle piece. And every time we make a connection, we fit that puzzle piece into our map.
 
-Formally, it is the ability to recall and tie relevant concepts together, and the ability to derive new solutions under different situations.
+It is the ability to recall and tie relevant concepts together, and the ability to derive new solutions under different situations.
 
 <!--more-->
 
@@ -54,6 +54,6 @@ Our brain is divided between working and long-term memory. Like the two hands we
 Chunking is when we take all the details in our working memory and tie it together to form a larger understanding. Like a puzzle map, when we initially chunk, we pick up a puzzle piece. And as we find more puzzle pieces, we start to notice a pattern and how they can fit together, producing a bigger puzzle piece with more connecting edges. It’s chunking that  At times, we can take apart of the puzzle pieces to look at the details, or stand back and admire the bigger puzzle.
 
 
-Part II here
+For part II, click here.
 
 Reference: https://www.coursera.org/learn/learning-how-to-learn

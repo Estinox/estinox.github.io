@@ -7,8 +7,8 @@ permalink:        pretty
 
 # Setup
 title:            Centrally Distributed
-tagline:          'from statistics to photography, and everything in-between'
-description:      'Centrally Distributed'
+tagline:          'from c++ to fixed-income markets, and everything in between'
+description:      'a personal blog'
 url:              http://estinox.github.io
 baseurl:          ''
 gems:             [jekyll-paginate]
@@ -22,4 +22,4 @@ github:
 author:
   name:           'Kevin Yuan'
   url:            http://estinox.github.io
-  email:          centrally.distributed.com
+  email:          kevinyuan558 (little mice sign) gmail dot com

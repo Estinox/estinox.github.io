@@ -56,12 +56,15 @@ struct Delegate {
     void *obj;
 };
 
-template <typename CallSignature> struct DelegateContainer;
+template <typename CallSignature>
+struct DelegateContainer;
 
-template <typename... Args> struct DelegateContainer<void(Args...)> {
+template <typename... Args>
+struct DelegateContainer<void(Args...)> {
     using call_signature = void (*)(void * /*obj*/, Args...);
 
-    template <typename T> void insert(void (T::*fp)(Args...), T *obj) {
+    template <typename T>
+    void insert(void (T::*fp)(Args...), T *obj) {
         _delegates.push_back(Delegate{reinterpret_cast<void *>(fp),
                                       reinterpret_cast<void *>(obj)});
     }
@@ -70,8 +73,8 @@ template <typename... Args> struct DelegateContainer<void(Args...)> {
         for (auto &d : _delegates) {
             (reinterpret_cast<call_signature>(d.fp))(d.obj, 
                                                      std::forward(args)...);
-        }   
-    }   
+        }
+    }
 
     std::vector<Delegate> _delegates;
 };

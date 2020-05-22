@@ -80,7 +80,7 @@ struct DelegateContainer<void(Args...)> {
 };
 {% endhighlight %}
 
-So the magic here is how we reinterpreted cast both the PMF and object pointer to void *, and then stored the call structure in a typedef.
+So the magic here is how we reinterpreted cast both the PMF and object pointer to void *, and then stored the call structure in a typedef. This Delegate model can also be extended for functors, lambdas (capturing and non-capturing), and ofc, standalone function pointers. Just some tinkering will be needed. Happy coding.
 
 The idea came from the [Type Erasure CppCon talk](https://www.youtube.com/watch?v=tbUCHifyT24){:target="blank"} by Arthur O'Dwyer, full source code can be found [here](https://github.com/Estinox/coding-practices/blob/master/random_code/pmf_delegates.cpp){:target="blank"}, useful blog referenced [here](https://www.codeproject.com/Articles/1170503/The-Impossibly-Fast-Cplusplus-Delegates-Fixed?fid=1917788&df=90&mpp=25&sort=Position&spc=Relaxed&select=5700741&prof=True&view=Normal&fr=1#xx0xx){:target="blank"}.
 

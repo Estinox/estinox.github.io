@@ -65,14 +65,14 @@ struct DelegateContainer<void(Args...)> {
 
     template <typename T>
     void insert(void (T::*fp)(Args...), T *obj) {
-        _delegates.push_back(Delegate{reinterpret_cast<void *>(fp),
-                                      reinterpret_cast<void *>(obj)});
+        _delegates.push_back({reinterpret_cast<void *>(fp),
+                              reinterpret_cast<void *>(obj)});
     }
 
     void call(Args &&... args) {
         for (auto &d : _delegates) {
-            (reinterpret_cast<call_signature>(d.fp))(d.obj, 
-                                                     std::forward(args)...);
+            (reinterpret_cast<call_signature>(d.fp))
+                (d.obj, std::forward(args)...);
         }
     }
 

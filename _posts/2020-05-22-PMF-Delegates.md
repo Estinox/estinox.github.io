@@ -5,7 +5,7 @@ tags:
     - cpp
 ---
 
-![png]({{ site.url }}/assets/delegate.png)
+![png]({{ site.url }}/assets/delegation.png)
 
 Over the past few days, I've been trying to find a way to store different PMF (pointer to member functions) in a container as delegates. And I wanted to type erase the PMF so I can store it in a container along with other typed PMF delegates. The only thing common tying the delegates together would be its call signature.
 

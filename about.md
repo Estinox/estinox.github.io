@@ -10,7 +10,7 @@ Part of me wishes that I took more data science related courses during universit
 
 # About the Author
 
-Still here? Sure, I'll tell you a bit about myself. I grew up in Toronto, Canada, and graduated from University of Waterloo's computer science program. During the day, I'm a quant developer for a financial instituion, writing automated market-making strategies for rates products. During the night, I like to ...  is it me, or this is turning into a dating profile write-up?
+Still here? This doesn't happen too often. Sure, I'll tell you a bit about myself. I grew up in Toronto, Canada, and graduated from University of Waterloo's computer science program. During the day, I'm a quant developer for a financial instituion, writing automated market-making strategies for rates products. During the night, I like to ...  is it me, or this is turning into a dating profile write-up?
 
 Alright, just kidding. As for hobbies, just general outdoor activities, either by waiting for the next powder day, training for the next marathon, or simply cycling up'n down coastal parks. All the while, trying to listen to a few casts like [Planet Money](http://www.npr.org/sections/money){:target="_blank"}, [Radiolab](http://www.radiolab.org){:target="_blank"}, or the latest curation from Audible.
 

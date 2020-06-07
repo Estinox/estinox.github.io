@@ -5,7 +5,7 @@ tags:
     - cpp
 ---
 
-![png]({{ site.url }}/assets/one_and_only.jpg)
+![png]({{ site.url }}/assets/one_seuss.jpg)
 
 ### When do we need a singleton?
 This can be a contentious topic.

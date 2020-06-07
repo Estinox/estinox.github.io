@@ -28,10 +28,10 @@ Long story short, there are several ways of doing this. The best way I've found 
 {% highlight cpp %}
 
 namespace Singleton {
-    auto& instance() {
-            static std::unordered_map<int, std::string> _instance;
-                return _instance;
-    }
+  auto& instance() {
+    static std::unordered_map<int, std::string> _instance;
+      return _instance;
+  }
 };
 
 {% endhighlight %}

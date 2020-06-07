@@ -5,12 +5,13 @@ tags:
     - cpp
 ---
 
-![png]({{ site.url }}/assets/one_and_only.png)
+![png]({{ site.url }}/assets/one_and_only.jpeg)
 
 ### When do we need a singleton?
 This can be a contentious topic.
 
 There are always ways around a singleton, but it does make life easier when used correctly. However, it's true that global variables are frawned upon, so we must think carefully when embarking upon this single path.
+<!--more-->
 
 An alternative for singleton could be passing an instantiated obj around, parameterizing *all* the classes that needs it. Sure, this could work if you own the entire code base (ie: you are both the library developer and the client), and do not mind the time-consuming work of adding doing so. Nice thing is, this will also make the dependencies explicit, making it easier to test and debug. 
 

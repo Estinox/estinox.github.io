@@ -53,6 +53,6 @@ Our brain is divided between working and long-term memory. Like the two hands we
 Chunking is when we take all the details in our working memory and tie it together to form a larger understanding. Like a puzzle map, when we initially chunk, we pick up a puzzle piece. And as we find more puzzle pieces, we start to notice a pattern and how they can fit together, producing a bigger puzzle piece with more connecting edges. It’s chunking that  At times, we can take apart of the puzzle pieces to look at the details, or stand back and admire the bigger puzzle.
 
 
-For part II, click [here]({{ site.url }}/2020-01-25-learning-how-to-learn-part-2.htm).
+For part II, click [here]({{ site.url }}/2020/07/23/learning-how-to-learn-part-2/).
 
 Reference: https://www.coursera.org/learn/learning-how-to-learn

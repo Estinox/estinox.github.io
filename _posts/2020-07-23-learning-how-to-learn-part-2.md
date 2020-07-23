@@ -4,13 +4,14 @@ title: Learning How to Learn Part II
 tags:
     - misc
 ---
+![png]({{ site.url }}/assets/footsteps_in_sand.jpg)
 _"Little by little, I will get there"_ - Anon.
-![png]({{ site.url }}/assets/blank.jpg)
 
-## Learning How to Learn Part 2
 
 How to get started and avoid the inner procrastination zombie. 
 <!--more-->
+
+## Learning How to Learn Part 2
 
 We are a set of habits built across the years. It's a biological adaptation,  drawing from our chunks and going into a semi-autonomous or zomblie-like mode perform the routine quickly. And procrastination, is just one of these habits with less-than-desirable results.
 
@@ -31,4 +32,3 @@ Maintaining a positive and judgement-free mind set is the key. It’s very easy 
 
 
 Now … only if I can follow my own rules more. Alright, until next time my internet friends.
-
